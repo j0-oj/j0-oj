@@ -4,7 +4,7 @@ Hi! I am Jodena, a student from Temasek Polytechnic under the diploma of Cyberse
 
 ### 🌱 I’m currently learning ...
 
-I am currently learning how to build secure PHP web application.
+I am currently learning how to build a secure web application through PHP and Javascript.
 
 <!--
 **j0-oj/j0-oj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
